@@ -49,29 +49,11 @@ Search, shopping cart, and star icons powered by Bootstrap Icons.
 
 ## 🔍 Preview
 
-Add a screenshot or GIF of your project here after uploading it to your GitHub repository.
-
-[UdemigYol Project Repository](https://github.com/saadetnajaf)
+![UdemigYol Preview](UdemigYol.gif)
 
 ---
 
-## 🚀 Getting Started
 
-1. Clone or download the repository.
-2. Open the project folder in your code editor.
-3. Make sure the product image exists at `images/product-image.webp`.
-4. Open `index.html` in your browser.
-
----
-
-## 📌 Future Improvements
-
-- Implement product search functionality with JavaScript.
-- Add functional shopping cart operations.
-- Update the cart count dynamically when products are added.
-- Add product filtering by category.
-- Load product information dynamically from a JavaScript array or API.
-- Improve mobile navigation with a hamburger menu.
 
 ---
 
